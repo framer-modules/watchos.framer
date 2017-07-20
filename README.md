@@ -20,8 +20,8 @@
 
 
 ## APIs 
+- App : 앱 관련
 - WatchOS : 워치의 기본 레이아웃 관련 
-- App : 앱 관련 
 - Complication : 컴플리케이션 화면 관련 
 - Notifiaction : 알림 관련 
 - Device : 장치 관련 
