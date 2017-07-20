@@ -1,6 +1,5 @@
 # watchOS
-애플워치의 기본동작을 구현하여 애플워치 프로토타입 시 실제 디바이스의 사용성을 유지하기 위해 WatchOS의 HIG(Human Interface Guidelines)에 맞춰 구현. (**WatchOS 3.0 버전**)
-
+애플워치의 기본동작을 구현하여 애플워치 프로토타입 시 실제 디바이스의 사용성을 유지하기 위해 WatchOS의 HIG(Human Interface Guidelines)에 맞춰 구현. (**WatchOS 3.0 버전**)  
 > [Apple Watch HIG 참고](https://developer.apple.com/watchos/human-interface-guidelines/visual-design/)
 
 데모 : https://framer-modules.github.io/watchos.framer/
@@ -16,13 +15,18 @@
 
 
 ## 설치
-해당 소스를 전체 다운받아 앱 영역만 추가적으로 구현해서 사용
-
+해당 소스를 전체 다운받아 앱 영역만 추가적으로 구현해서 사용  
 > 모듈 사용에 대한 자세한 내용은 [FramerJS Docs - Modules](https://framer.com/docs/#modules.modules) 참고
 
 
 ## APIs 
-각 API의 상세한 사용법은 위키페이지 참고
+- WatchOS : 워치의 기본 레이아웃 관련 
+- App : 앱 관련 
+- Complication : 컴플리케이션 화면 관련 
+- Notifiaction : 알림 관련 
+- Device : 장치 관련 
+
+**각 API의 상세한 사용법은 [위키페이지](https://github.com/framer-modules/watchos.framer/wiki) 참고**
 
 
 ## 예제코드
