@@ -20,13 +20,13 @@
 
 
 ## APIs 
-- App : 앱 관련
-- WatchOS : 워치의 기본 레이아웃 관련 
-- Complication : 컴플리케이션 화면 관련 
-- Notifiaction : 알림 관련 
-- Device : 장치 관련 
+- [App](https://github.com/framer-modules/watchos.framer/wiki/1.-App) : 앱 관련
+- [WatchOS](https://github.com/framer-modules/watchos.framer/wiki/2.-WatchOS) : 워치의 기본 레이아웃 관련 
+- [Complication](https://github.com/framer-modules/watchos.framer/wiki/3.-Complication) : 컴플리케이션 화면 관련 
+- [Notifiaction](https://github.com/framer-modules/watchos.framer/wiki/4.-Notification) : 알림 관련 
+- [Device](https://github.com/framer-modules/watchos.framer/wiki/5.-Device) : 장치 관련 
 
-**각 API의 상세한 사용법은 [위키페이지](https://github.com/framer-modules/watchos.framer/wiki) 참고**
+> 각 API의 상세한 사용법은 [위키페이지](https://github.com/framer-modules/watchos.framer/wiki) 참고
 
 
 ## 예제코드
