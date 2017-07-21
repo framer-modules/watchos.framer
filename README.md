@@ -3,7 +3,7 @@
 > [Apple Watch HIG 참고](https://developer.apple.com/watchos/human-interface-guidelines/visual-design/)
 
 데모 : https://framer-modules.github.io/watchos.framer/  
-**알림 및 독의 백그라운드 블러효과는 사파리에서만 확인 할수 있습니다.**
+> **알림 및 독의 백그라운드 블러효과는 사파리에서만 확인 할수 있습니다.**
 
 ## 기능
 - ClockFace 제공 (Modular, Utilitarian, Circular)
