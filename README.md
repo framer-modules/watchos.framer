@@ -7,6 +7,8 @@
 데모 : https://framer-modules.github.io/watchos.framer/  
 > **알림 및 독의 백그라운드 블러효과는 사파리에서만 확인 할수 있습니다.**
 
+<br/>
+
 ## 기능
 - ClockFace 제공 (Modular, Utilitarian, Circular)
 - Complication 템플릿 제공
@@ -15,11 +17,13 @@
 - Notification 제공
 - Device 버튼 동작 (Digital Crown, Side Button)
 
+<br/>
 
 ## 설치
 해당 소스를 전체 다운받아 앱 영역만 추가적으로 구현해서 사용  
 > 모듈 사용에 대한 자세한 내용은 [FramerJS Docs - Modules](https://framer.com/docs/#modules.modules) 참고
 
+<br/>
 
 ## APIs 
 - [App](https://github.com/framer-modules/watchos.framer/wiki/1.-App) : 앱 관련
@@ -30,6 +34,7 @@
 
 > 각 API의 상세한 사용법은 [위키페이지](https://github.com/framer-modules/watchos.framer/wiki) 참고
 
+<br/>
 
 ## 예제코드
 ```coffeescript
@@ -98,5 +103,6 @@ watchOS = new WatchOS
         ]
 ```
 
+<br/>
 
 ## 미리보기
