@@ -1,9 +1,9 @@
 # watchOS
 애플워치의 기본동작을 구현하여 애플워치 프로토타입 시 실제 디바이스의 사용성을 유지하기 위해 WatchOS의 HIG(Human Interface Guidelines)에 맞춰 구현. (**WatchOS 3.0 버전**)  
-> [Apple Watch HIG 참고](https://developer.apple.com/watchos/human-interface-guidelines/visual-design/)
+> [Apple Watch HIG 참고](https://developer.apple.com/watchos/human-interface-guidelines/visual-design/)  
 
-  
-데모 : https://framer-modules.github.io/watchos.framer/  
+<br/>
+데모 : https://framer-modules.github.io/watchos.framer/
 > **알림 및 독의 백그라운드 블러효과는 사파리에서만 확인 할수 있습니다.**
 
 ## 기능
