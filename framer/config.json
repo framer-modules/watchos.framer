@@ -1,16 +1,20 @@
 {
   "orientation" : 0,
   "updateDelay" : 0,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 390,
   "contentScale" : 1,
   "fullScreen" : false,
+  "cachedDeviceWidth" : 312,
+  "deviceType" : "apple-watch-series-2-42mm-space-black-steel-black",
   "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
-    "Filters" : false
+
   },
-  "deviceType" : "apple-watch-series-2-42mm-space-black-steel-black",
-  "projectId" : "C7272F77-2D4D-454A-BF70-7795AB520C90",
+  "projectId" : "6D3FDDCC-CD76-4889-987A-6E0CBC1F7434",
   "deviceOrientation" : 0,
   "selectedHand" : "",
+  "showBezel" : 0,
   "foldedCodeRanges" : [
     "{0, 253}"
   ],

@@ -4,14 +4,9 @@
 
 Framer.Info =
 	title: "Apple Watch"
-	author: "Jungho song"
+	author: "Ho.s (Jungho song)"
 	twitter: "threeword"
-	description: "
-		Apple Watch Basic Simualtor\n
-		\n
-		Github : https://github.com/framer-modules/watchos.framer
-	"
-	date: "2016-11-24"
+	description: "WatchOS"
 
 Framer.Extras.ShareInfo.enable()
 
@@ -30,6 +25,7 @@ app = new App
 		lineHeight: "#{Device.height}px"
 		textAlign: "center"
 		textTransform: "uppercase"
+	accentColor: 'red'
 	
 app.onToDock -> print "to dock"
 app.onFromDock -> print "from dock"

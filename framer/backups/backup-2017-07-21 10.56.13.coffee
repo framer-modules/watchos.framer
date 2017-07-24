@@ -4,14 +4,9 @@
 
 Framer.Info =
 	title: "Apple Watch"
-	author: "Jungho song"
+	author: "Ho.s (Jungho song)"
 	twitter: "threeword"
-	description: "
-		Apple Watch Basic Simualtor\n
-		\n
-		Github : https://github.com/framer-modules/watchos.framer
-	"
-	date: "2016-11-24"
+	description: "WatchOS"
 
 Framer.Extras.ShareInfo.enable()
 

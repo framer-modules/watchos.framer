@@ -1,7 +1,7 @@
 '''
 watchOS : Docks
 
-@auther ho.s
+@auther Jungho song (threeword.com)
 @since 2016.11.23
 '''
 class exports.Docks extends Layer

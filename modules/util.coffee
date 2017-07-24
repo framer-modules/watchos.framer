@@ -1,3 +1,10 @@
+'''
+Utilities
+
+@auther Jungho song (threeword.com)
+@since 2016.11.24
+'''
+
 # Utilitis
 Util = {}
 

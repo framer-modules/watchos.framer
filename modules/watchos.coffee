@@ -4,7 +4,7 @@ Framer.Extras.Hints.disable()
 '''
 watchOS
 
-@auther ho.s
+@auther Jungho song (threeword.com)
 @since 2016.11.24
 '''
 class exports.WatchOS extends Framer.BaseClass

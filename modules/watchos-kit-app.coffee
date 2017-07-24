@@ -1,7 +1,7 @@
 '''
-App
+watchOS : App
 
-@auther ho.s
+@auther Jungho song (threeword.com)
 @since 2016.11.24
 '''
 class exports.App extends Layer

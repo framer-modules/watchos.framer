@@ -1,7 +1,7 @@
 '''
 watchOS : ClockFaces
 
-@auther ho.s
+@auther Jungho song (threeword.com)
 @since 2016.11.23
 '''
 class exports.ClockFaces extends Layer
