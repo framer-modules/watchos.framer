@@ -11,18 +11,22 @@
 
 ## 미리보기
 ### Default
-![app](https://media.giphy.com/media/xTkcEJ9tZZcLF1a1eU/giphy.gif)  
+|![app](https://media.giphy.com/media/xTkcEJ9tZZcLF1a1eU/giphy.gif)|
+| :-: |
 
 ### Notification
 #### Default & Short looks
-![default](https://media.giphy.com/media/3oeHLmwV3YzGCgJsbe/giphy.gif)  
+|![default](https://media.giphy.com/media/3oeHLmwV3YzGCgJsbe/giphy.gif)|
+| :-: |
 
 #### Long looks
-![longlooks_01](https://media.giphy.com/media/xTkcEHOnkTB0xzj6sE/giphy.gif)
-![longlooks_02](https://media.giphy.com/media/3o8dFGzBeFiwSNnBwk/giphy.gif)
+|![longlooks_01](preview-longlooks_1.gif)|![longlooks_02](preview-longlooks_2.gif)|
+| :-: | :-: |
+| Color | Buttons |
 
 ### Watchface
-![watchface](https://media.giphy.com/media/xTkcEwC8Hdw4ttz1ss/giphy.gif)
+|![watchface](https://media.giphy.com/media/xTkcEwC8Hdw4ttz1ss/giphy.gif)|
+| :-: |
 
 > https://vimeo.com/226708566 - "Full version Preview"
 
