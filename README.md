@@ -10,7 +10,8 @@
 <br/>
 
 ## 미리보기
-
+[![Preview](screenshot.jpg)](https://vimeo.com/226708566)  
+https://vimeo.com/226708566 - "Full version Preview"
 
 <br/>
 
