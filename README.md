@@ -10,7 +10,7 @@
 <br/>
 
 ## 미리보기
-[![Preview](screenshot.jpg)](https://vimeo.com/226708566)  
+[![Preview](https://media.giphy.com/media/xTkcEJ9tZZcLF1a1eU/giphy.gif)](https://vimeo.com/226708566)  
 https://vimeo.com/226708566 - "Full version Preview"
 
 <br/>
