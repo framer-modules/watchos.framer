@@ -19,7 +19,7 @@
 
 ### Notification
 #### Default & Short looks
-|![default](https://media.giphy.com/media/3oeHLmwV3YzGCgJsbe/giphy.gif)|
+|![default](https://media.giphy.com/media/xUn3CsMGzg93V1rnKE/giphy.gif)|
 | :-: |
 | Default |
 
