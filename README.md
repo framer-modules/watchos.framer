@@ -10,8 +10,28 @@
 <br/>
 
 ## 미리보기
-[![Preview](screenshot.jpg)](https://vimeo.com/226708566)  
-https://vimeo.com/226708566 - "Full version Preview"
+> https://vimeo.com/226708566 - "Full version Preview"  
+
+### Default
+|![app](https://media.giphy.com/media/xTkcEJ9tZZcLF1a1eU/giphy.gif)|
+| :-: |
+| Watchface + Apps + Dock |
+
+### Notification
+#### Default & Short looks
+|![default](https://media.giphy.com/media/3oeHLmwV3YzGCgJsbe/giphy.gif)|
+| :-: |
+| Default |
+
+#### Long looks
+|![longlooks_01](preview-longlooks_1.gif)|![longlooks_02](preview-longlooks_2.gif)|
+| :-: | :-: |
+| Color | Buttons |
+
+### Watchface
+|![watchface](https://media.giphy.com/media/xTkcEwC8Hdw4ttz1ss/giphy.gif)|
+| :-: |
+| Watchface |
 
 <br/>
 
