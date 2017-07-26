@@ -1,4 +1,5 @@
 .DS_Store
+.gitignore
 *.mp4
 *.prproj
 *.mov
