@@ -1,4 +1,4 @@
-# watchOS
+# watchOS Kit
 애플워치의 기본동작을 구현하여 애플워치 프로토타입 시 실제 디바이스의 사용성을 유지하기 위해 WatchOS의 HIG(Human Interface Guidelines)에 맞춰 구현. (**WatchOS 3.0 버전**)  
 > [Apple Watch HIG 참고](https://developer.apple.com/watchos/human-interface-guidelines/visual-design/)  
 
@@ -41,6 +41,7 @@
 - Docks 제공
 - Apps 목록
 - Notification 제공
+- Scroll 제공
 - Device 버튼 동작 (Digital Crown, Side Button)
 
 <br/>
@@ -56,7 +57,8 @@
 - [WatchOS](https://github.com/framer-modules/watchos.framer/wiki/2.-WatchOS) : 워치의 기본 레이아웃 관련 
 - [Complication](https://github.com/framer-modules/watchos.framer/wiki/3.-Complication) : 컴플리케이션 화면 관련 
 - [Notifiaction](https://github.com/framer-modules/watchos.framer/wiki/4.-Notification) : 알림 관련 
-- [Device](https://github.com/framer-modules/watchos.framer/wiki/5.-Device) : 장치 관련 
+- [Scroll](https://github.com/framer-modules/watchos.framer/wiki/5.-Scroll): 스크롤 관련
+- [Device](https://github.com/framer-modules/watchos.framer/wiki/6.-Device) : 장치 관련 
 
 > 각 API의 상세한 사용법은 [위키페이지](https://github.com/framer-modules/watchos.framer/wiki) 참고
 
