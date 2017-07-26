@@ -10,6 +10,8 @@
 <br/>
 
 ## 미리보기
+> https://vimeo.com/226708566 - "Full version Preview"  
+
 ### Default
 |![app](https://media.giphy.com/media/xTkcEJ9tZZcLF1a1eU/giphy.gif)|
 | :-: |
@@ -30,8 +32,6 @@
 |![watchface](https://media.giphy.com/media/xTkcEwC8Hdw4ttz1ss/giphy.gif)|
 | :-: |
 | Watchface |
-
-> https://vimeo.com/226708566 - "Full version Preview"
 
 <br/>
 
