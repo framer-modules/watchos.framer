@@ -19,9 +19,9 @@
 
 ### Notification
 #### Default & Short looks
-|![default](https://media.giphy.com/media/xUn3CsMGzg93V1rnKE/giphy.gif)|
-| :-: |
-| Default |
+|![default](https://media.giphy.com/media/xUn3CsMGzg93V1rnKE/giphy.gif)|![shortlooks](https://media.giphy.com/media/xUPGGjQ4MOOinqfAYw/giphy.gif)
+| :-: | :-: |
+| Default | Short looks |
 
 #### Long looks
 |![longlooks_01](preview-longlooks_1.gif)|![longlooks_02](preview-longlooks_2.gif)|
